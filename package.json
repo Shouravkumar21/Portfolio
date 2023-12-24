@@ -1,7 +1,7 @@
 {
   "name": "portofolio",
   "version": "0.1.0",
-  "homepage": "https://Shouravkumar21.github.io/Portfolio1",
+  "homepage": "https://github.com/Shouravkumar21/Portfolio1.git",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
@@ -21,7 +21,6 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
